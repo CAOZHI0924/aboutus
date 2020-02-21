@@ -6,7 +6,7 @@ name: Buyer's Agreement
 
 ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/buyer_agreement.jpg)
 
-Welcome to the www.emarineonline.com website and/or the Marine Online mobile app. 
+Welcome to the www.marineonline.com website and/or the Marine Online mobile app. 
 
 **Please read these terms and conditions carefully.**
 
@@ -211,9 +211,9 @@ You agree to be bound by any access of the Platform and/or use of any Services (
 
 1.10 “Personal Data” means data, whether true or not, that can be used to identify, contact or locate you. Personal Data can include your name, e-mail address, billing address, shipping address, phone number and credit card information. “Personal Data” shall be deemed to include any data that you have provided to us when placing an Order, regardless of whether you have an account with us.
 
-1.11 “Platform” means (a) both the web and mobile versions of the website operated and/or owned by Marine Online which is presently located at the following URL: www.Marine Onlinemarine.com; and (b) the mobile applications made available from time to time by Marine Online, including the iOS and Android versions.
+1.11 “Platform” means (a) both the web and mobile versions of the website operated and/or owned by Marine Online which is presently located at the following URL: www.marineonline.com; and (b) the mobile applications made available from time to time by Marine Online, including the iOS and Android versions.
 
-1.12 “Privacy Policy” means the privacy policy set out at http://www.emarineonline.con/privacy-policy/.
+1.12 “Privacy Policy” means the privacy policy set out at http://www.marineonline.con/privacy-policy/.
 
 1.13 “Product” means a product or service (including any installment of the product or any parts thereof) available for sale to Customers on the Platform.
 
@@ -228,7 +228,7 @@ You agree to be bound by any access of the Platform and/or use of any Services (
 
 1.16 “Submission” is as defined in Clause 8.1 of these Terms of Use.
 
-1.17 “Terms & Conditions of Sale” means the terms and conditions governing a Customer’s purchase of the Products and are set out at http://www.emarineonline.com/terms-of-use/.
+1.17 “Terms & Conditions of Sale” means the terms and conditions governing a Customer’s purchase of the Products and are set out at http://www.marineonline.com/terms-of-use/.
 
 1.18 “Terms of Use” means the recitals, Clauses 1 to 11 and any Schedules to these terms and conditions.
 

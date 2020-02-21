@@ -1,3 +1,7 @@
+---
+name: Terms and Agreements 
+---
+
 Terms of Use
 
 [Last updated on 10th February 2020]

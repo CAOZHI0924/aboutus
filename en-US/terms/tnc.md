@@ -1,7 +1,11 @@
 Terms of Use
+
 [Last updated on 10th February 2020]
+
 Welcome to the www.marineonline.com website and/or the mobile app.
+
 Please read these terms and conditions carefully.
+
 The following Terms of Use govern your use and access of the Platform (defined below) and the use of the Services. By accessing the Platform and/or using the Services, you agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, do not access and/or use this Platform or the Services.
 
 Access to and use of password protected and/or secure areas of the Platform and/or use of the Services are restricted to Customers with accounts only. You may not obtain or attempt to obtain unauthorized access to such parts of this Platform and/or Services, or to any other protected information, through any means not intentionally made available by us for your specific use. A breach of this provision may be an offence under the Computer Misuse Act (Chapter 50A) of Singapore.

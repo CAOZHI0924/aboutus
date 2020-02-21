@@ -12,7 +12,7 @@ Access to and use of password protected and/or secure areas of the Platform and/
 
 If you are using this platform on behalf of your employer or principal: you must obtain the prior consent/authorization from your employer or principal, their acceptance of these Terms of Use and their agreement to take responsibility for: (i) your actions; (ii) any charges associated with your use of any of the Services or purchase of Products; and (iii) your acceptance and compliance with these Terms of Use. If you do not have the prior consent/authorization from your employer or principal, you must stop using/accessing this Platform and using the Services; otherwise you will be held personally liable/responsible for any charges associated with your usage/access to this Platform and the Services or purchase of Products.
 
-Unless otherwise defined, the definitions and provisions in respect of interpretation set out in Schedule 1 will apply to these Terms of Use.
+Unless otherwise defined, the definitions and provisions in respect of interpretation set out in Schedule 1 will apply to these Terms of Use. 
 
 2.1 Guidelines to the use of Platform and/or Services: You agree to comply with any and all the guidelines, notices, operating rules and policies and instructions pertaining to the use of the Services and/or access to the Platform, as well as any amendments to the aforementioned, issued by us, from time to time. We reserve the right to revise these guidelines, notices, operating rules and policies and instructions at any time and you are deemed to be aware of and bound by any changes to the foregoing upon their publication on the Platform.
 
